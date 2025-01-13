@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshdesai695/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/harshdesai695/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/harshdesai695/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/harshdesai695/LeetCode/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshdesai695/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/harshdesai695/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/harshdesai695/LeetCode/tree/master/0792-binary-search) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/harshdesai695/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/harshdesai695/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshdesai695/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/harshdesai695/LeetCode/tree/master/0189-rotate-array) |
 | [0908-middle-of-the-linked-list](https://github.com/harshdesai695/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/harshdesai695/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/harshdesai695/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/harshdesai695/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/harshdesai695/LeetCode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/harshdesai695/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harshdesai695/LeetCode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/harshdesai695/LeetCode/tree/master/0390-elimination-game) |
