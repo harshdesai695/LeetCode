@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/harshdesai695/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/harshdesai695/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/harshdesai695/LeetCode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/harshdesai695/LeetCode/tree/master/0326-power-of-three) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/harshdesai695/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/harshdesai695/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/harshdesai695/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harshdesai695/LeetCode/tree/master/0342-power-of-four) |
