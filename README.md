@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/harshdesai695/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/harshdesai695/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/harshdesai695/LeetCode/tree/master/0344-reverse-string) |
+| [0874-backspace-string-compare](https://github.com/harshdesai695/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/harshdesai695/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/harshdesai695/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/harshdesai695/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/harshdesai695/LeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/harshdesai695/LeetCode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/harshdesai695/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1310-watering-plants](https://github.com/harshdesai695/LeetCode/tree/master/1310-watering-plants) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshdesai695/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/harshdesai695/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/harshdesai695/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/harshdesai695/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/harshdesai695/LeetCode/tree/master/0344-reverse-string) |
+| [0874-backspace-string-compare](https://github.com/harshdesai695/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2032-largest-odd-number-in-string](https://github.com/harshdesai695/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshdesai695/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## String Matching
@@ -224,4 +227,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/harshdesai695/LeetCode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/harshdesai695/LeetCode/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
