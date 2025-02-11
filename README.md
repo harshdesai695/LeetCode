@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshdesai695/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2386-min-max-game](https://github.com/harshdesai695/LeetCode/tree/master/2386-min-max-game) |
 | [2551-apply-operations-to-an-array](https://github.com/harshdesai695/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3447-clear-digits](https://github.com/harshdesai695/LeetCode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshdesai695/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/harshdesai695/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2032-largest-odd-number-in-string](https://github.com/harshdesai695/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshdesai695/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [3447-clear-digits](https://github.com/harshdesai695/LeetCode/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/harshdesai695/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/harshdesai695/LeetCode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/harshdesai695/LeetCode/tree/master/0874-backspace-string-compare) |
+| [3447-clear-digits](https://github.com/harshdesai695/LeetCode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
