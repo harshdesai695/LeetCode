@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/harshdesai695/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harshdesai695/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshdesai695/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/harshdesai695/LeetCode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/harshdesai695/LeetCode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/harshdesai695/LeetCode/tree/master/0874-backspace-string-compare) |
 | [3447-clear-digits](https://github.com/harshdesai695/LeetCode/tree/master/3447-clear-digits) |
@@ -282,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/harshdesai695/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/harshdesai695/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
