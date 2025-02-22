@@ -1,27 +1,38 @@
 class Solution {
     public int maxVowels(String s, int k) {
-        Set<Character> vowels = new HashSet<>(Arrays.asList('a', 'e', 'i', 'o', 'u'));
+        int i = 0;
+        int j = 0;
         int maxCount = 0, currentCount = 0;
-        
-        // Compute vowel count for first window of size k
-        for (int j = 0; j < k; j++) {
+        Set<Character> vowels = new HashSet<>(Arrays.asList('a', 'e', 'i', 'o', 'u'));
+
+        while (j < s.length()) {
             if (vowels.contains(s.charAt(j))) {
                 currentCount++;
             }
-        }
-        maxCount = currentCount;
 
-        // Sliding window
-        for (int j = k; j < s.length(); j++) {
-            if (vowels.contains(s.charAt(j))) {
-                currentCount++; // Include new character
+            int winSize = j - i + 1;
+            if (winSize < k) {
+                j++;
+            } else if (winSize == k) {
+                maxCount = Math.max(maxCount, currentCount);
+                if (vowels.contains(s.charAt(i))) {
+                    currentCount--;
+                }
+                i++;
+                j++;
             }
-            if (vowels.contains(s.charAt(j - k))) {
-                currentCount--; // Remove old character
-            }
-            maxCount = Math.max(maxCount, currentCount);
         }
-        
         return maxCount;
     }
+
+    // private int countVowels(String subset) {
+    //     Set<Character> vowels = new HashSet<>(Arrays.asList('a', 'e', 'i', 'o', 'u'));
+    //     int count = 0;
+    //     for (char c : subset.toCharArray()) {
+    //         if (vowels.contains(c)) {
+    //             count++;
+    //         }
+    //     }
+    //     return count;
+    // }
 }
