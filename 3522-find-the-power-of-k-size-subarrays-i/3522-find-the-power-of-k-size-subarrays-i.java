@@ -20,7 +20,7 @@ class Solution {
     }
 
     public static int checkCondition(ArrayList<Integer> nums) {
-        System.out.print(nums);
+        // System.out.print(nums);
         for (int i = 1; i < nums.size(); i++) {
             if (nums.get(i) != nums.get(i - 1)+1) {
                 return -1; 
