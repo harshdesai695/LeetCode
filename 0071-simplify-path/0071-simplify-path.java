@@ -13,7 +13,7 @@ class Solution {
                 st.push(ch[i]);
             }
         }
-        System.out.print(st);
+        // System.out.print(st);
         StringBuilder result = new StringBuilder();
         while (!st.isEmpty()) {
             result.insert(0, "/" + st.pop());
