@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/harshdesai695/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshdesai695/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/harshdesai695/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/harshdesai695/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harshdesai695/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshdesai695/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/harshdesai695/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/harshdesai695/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Design
 |  |
 | ------- |
