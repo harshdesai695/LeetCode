@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/harshdesai695/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/harshdesai695/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/harshdesai695/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/harshdesai695/LeetCode/tree/master/0070-climbing-stairs) |
