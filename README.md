@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/harshdesai695/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/harshdesai695/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/harshdesai695/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/harshdesai695/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/harshdesai695/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshdesai695/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshdesai695/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/harshdesai695/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/harshdesai695/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/harshdesai695/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/harshdesai695/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harshdesai695/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2032-largest-odd-number-in-string](https://github.com/harshdesai695/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshdesai695/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/harshdesai695/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/harshdesai695/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshdesai695/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/harshdesai695/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harshdesai695/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshdesai695/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/harshdesai695/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
