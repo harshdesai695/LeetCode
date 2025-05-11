@@ -13,7 +13,7 @@ class Solution {
         if (map.size() <= k) {
             return 0;
         }
-        System.out.print(map);
+        // System.out.print(map);
 
         List<Integer> frequencies = new ArrayList<>(map.values());
         Collections.sort(frequencies);
