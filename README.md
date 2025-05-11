@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/harshdesai695/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1168-duplicate-zeros](https://github.com/harshdesai695/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/harshdesai695/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/harshdesai695/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1310-watering-plants](https://github.com/harshdesai695/LeetCode/tree/master/1310-watering-plants) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/harshdesai695/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/harshdesai695/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
