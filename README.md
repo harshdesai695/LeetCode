@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/harshdesai695/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshdesai695/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/harshdesai695/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/harshdesai695/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/harshdesai695/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshdesai695/LeetCode/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/harshdesai695/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/harshdesai695/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/harshdesai695/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/harshdesai695/LeetCode/tree/master/0342-power-of-four) |
