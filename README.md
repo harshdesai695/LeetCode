@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshdesai695/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/harshdesai695/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/harshdesai695/LeetCode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/harshdesai695/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/harshdesai695/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/harshdesai695/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/harshdesai695/LeetCode/tree/master/0494-target-sum) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/harshdesai695/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshdesai695/LeetCode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/harshdesai695/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/harshdesai695/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/harshdesai695/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/harshdesai695/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/harshdesai695/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
