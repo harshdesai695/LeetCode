@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/harshdesai695/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/harshdesai695/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/harshdesai695/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/harshdesai695/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshdesai695/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
