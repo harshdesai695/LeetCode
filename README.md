@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/harshdesai695/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/harshdesai695/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/harshdesai695/LeetCode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/harshdesai695/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/harshdesai695/LeetCode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/harshdesai695/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/harshdesai695/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/harshdesai695/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/harshdesai695/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/harshdesai695/LeetCode/tree/master/0409-longest-palindrome) |
+| [0516-longest-palindromic-subsequence](https://github.com/harshdesai695/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/harshdesai695/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0677-map-sum-pairs](https://github.com/harshdesai695/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0874-backspace-string-compare](https://github.com/harshdesai695/LeetCode/tree/master/0874-backspace-string-compare) |
