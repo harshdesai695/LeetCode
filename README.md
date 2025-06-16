@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/harshdesai695/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/harshdesai695/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/harshdesai695/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/harshdesai695/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/harshdesai695/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshdesai695/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshdesai695/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
