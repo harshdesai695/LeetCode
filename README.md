@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/harshdesai695/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1310-watering-plants](https://github.com/harshdesai695/LeetCode/tree/master/1310-watering-plants) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshdesai695/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/harshdesai695/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/harshdesai695/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshdesai695/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2386-min-max-game](https://github.com/harshdesai695/LeetCode/tree/master/2386-min-max-game) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/harshdesai695/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshdesai695/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshdesai695/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/harshdesai695/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2470-removing-stars-from-a-string](https://github.com/harshdesai695/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/harshdesai695/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/harshdesai695/LeetCode/tree/master/3447-clear-digits) |
