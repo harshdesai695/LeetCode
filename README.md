@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshdesai695/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/harshdesai695/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshdesai695/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/harshdesai695/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2386-min-max-game](https://github.com/harshdesai695/LeetCode/tree/master/2386-min-max-game) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/harshdesai695/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/harshdesai695/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/harshdesai695/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshdesai695/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/harshdesai695/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/harshdesai695/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/harshdesai695/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
