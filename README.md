@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/harshdesai695/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/harshdesai695/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harshdesai695/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshdesai695/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/harshdesai695/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2215-finding-3-digit-even-numbers](https://github.com/harshdesai695/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshdesai695/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/harshdesai695/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/harshdesai695/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/harshdesai695/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshdesai695/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2215-finding-3-digit-even-numbers](https://github.com/harshdesai695/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshdesai695/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3321-type-of-triangle](https://github.com/harshdesai695/LeetCode/tree/master/3321-type-of-triangle) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harshdesai695/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/harshdesai695/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harshdesai695/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshdesai695/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1899-count-items-matching-a-rule](https://github.com/harshdesai695/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2032-largest-odd-number-in-string](https://github.com/harshdesai695/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshdesai695/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/harshdesai695/LeetCode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/harshdesai695/LeetCode/tree/master/0409-longest-palindrome) |
 | [0611-valid-triangle-number](https://github.com/harshdesai695/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshdesai695/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2032-largest-odd-number-in-string](https://github.com/harshdesai695/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshdesai695/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Linked List
