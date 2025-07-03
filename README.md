@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/harshdesai695/LeetCode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/harshdesai695/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harshdesai695/LeetCode/tree/master/0342-power-of-four) |
+| [0365-water-and-jug-problem](https://github.com/harshdesai695/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/harshdesai695/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/harshdesai695/LeetCode/tree/master/0390-elimination-game) |
 | [0441-arranging-coins](https://github.com/harshdesai695/LeetCode/tree/master/0441-arranging-coins) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshdesai695/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshdesai695/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshdesai695/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/harshdesai695/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/harshdesai695/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/harshdesai695/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/harshdesai695/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/harshdesai695/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/harshdesai695/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/harshdesai695/LeetCode/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/harshdesai695/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/harshdesai695/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/harshdesai695/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [1731-even-odd-tree](https://github.com/harshdesai695/LeetCode/tree/master/1731-even-odd-tree) |
