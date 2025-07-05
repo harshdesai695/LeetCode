@@ -716,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/harshdesai695/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harshdesai695/LeetCode/tree/master/0210-course-schedule-ii) |
+| [1916-find-center-of-star-graph](https://github.com/harshdesai695/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/harshdesai695/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
