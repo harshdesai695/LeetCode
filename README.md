@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/harshdesai695/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/harshdesai695/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1310-watering-plants](https://github.com/harshdesai695/LeetCode/tree/master/1310-watering-plants) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/harshdesai695/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/harshdesai695/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/harshdesai695/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/harshdesai695/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/harshdesai695/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/harshdesai695/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/harshdesai695/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/harshdesai695/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2121-find-if-path-exists-in-graph](https://github.com/harshdesai695/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/harshdesai695/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1170-shortest-common-supersequence](https://github.com/harshdesai695/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/harshdesai695/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/harshdesai695/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/harshdesai695/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harshdesai695/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/harshdesai695/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -759,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/harshdesai695/LeetCode/tree/master/0139-word-break) |
 | [0677-map-sum-pairs](https://github.com/harshdesai695/LeetCode/tree/master/0677-map-sum-pairs) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/harshdesai695/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Brainteaser
 |  |
 | ------- |
