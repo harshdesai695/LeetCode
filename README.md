@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harshdesai695/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshdesai695/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/harshdesai695/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/harshdesai695/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshdesai695/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshdesai695/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshdesai695/LeetCode/tree/master/0035-search-insert-position) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/harshdesai695/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/harshdesai695/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/harshdesai695/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/harshdesai695/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/harshdesai695/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/harshdesai695/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshdesai695/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/harshdesai695/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/harshdesai695/LeetCode/tree/master/0139-word-break) |
 | [0677-map-sum-pairs](https://github.com/harshdesai695/LeetCode/tree/master/0677-map-sum-pairs) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/harshdesai695/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
