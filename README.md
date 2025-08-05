@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-calculate-score-after-performing-instructions](https://github.com/harshdesai695/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/harshdesai695/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/harshdesai695/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/harshdesai695/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/harshdesai695/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshdesai695/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/harshdesai695/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshdesai695/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/harshdesai695/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harshdesai695/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/harshdesai695/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/harshdesai695/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshdesai695/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/harshdesai695/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [3790-fruits-into-baskets-ii](https://github.com/harshdesai695/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -822,4 +825,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/harshdesai695/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/harshdesai695/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/harshdesai695/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
