@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harshdesai695/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/harshdesai695/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/harshdesai695/LeetCode/tree/master/0242-valid-anagram) |
+| [0355-design-twitter](https://github.com/harshdesai695/LeetCode/tree/master/0355-design-twitter) |
 | [0409-longest-palindrome](https://github.com/harshdesai695/LeetCode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/harshdesai695/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshdesai695/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/harshdesai695/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/harshdesai695/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/harshdesai695/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/harshdesai695/LeetCode/tree/master/0355-design-twitter) |
 | [0908-middle-of-the-linked-list](https://github.com/harshdesai695/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshdesai695/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/harshdesai695/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/harshdesai695/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/harshdesai695/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/harshdesai695/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0355-design-twitter](https://github.com/harshdesai695/LeetCode/tree/master/0355-design-twitter) |
 | [0677-map-sum-pairs](https://github.com/harshdesai695/LeetCode/tree/master/0677-map-sum-pairs) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/harshdesai695/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Backtracking
@@ -814,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/harshdesai695/LeetCode/tree/master/0355-design-twitter) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harshdesai695/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/harshdesai695/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshdesai695/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
