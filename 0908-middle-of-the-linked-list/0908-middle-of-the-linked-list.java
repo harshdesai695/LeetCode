@@ -1,32 +1,26 @@
 /**
  * Definition for singly-linked list.
  * public class ListNode {
- * int val;
- * ListNode next;
- * ListNode() {}
- * ListNode(int val) { this.val = val; }
- * ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        int llSize = 0;
+        int len = 0;
         ListNode curr = head;
-        ListNode cCurr = head;
         while (curr != null) {
-            llSize++;
+            len = len + 1;
             curr = curr.next;
         }
-        double lsize = 0.0;
-        double msize = Math.ceil(llSize / 2);
-        while (cCurr != null) {
-            if (lsize == msize) {
-                return cCurr;
-            } else {
-                lsize++;
-                cCurr = cCurr.next;
-            }
+        int mid = len / 2;
+        curr = head;
+        for (int i = 0; i < mid; i++) {
+            curr = curr.next;
         }
-    return head;
+        return curr;
     }
 }
