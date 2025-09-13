@@ -1,41 +1,26 @@
 class Solution {
     public int maxFreqSum(String s) {
-        HashMap<Character, Integer> vMap = new HashMap<>();
-        vMap.put('a', 0);
-        vMap.put('e', 0);
-        vMap.put('i', 0);
-        vMap.put('o', 0);
-        vMap.put('u', 0);
-        HashMap<Character, Integer> cMap = new HashMap<>();
-
+        int[] freq = new int[26];
+        HashMap<Character, Integer> map = new HashMap<>();
+        map.put('a', (int) 'a');
+        map.put('e', (int) 'e');
+        map.put('i', (int) 'i');
+        map.put('o', (int) 'o');
+        map.put('u', (int) 'u');
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
-            if (vMap.containsKey(ch)) {
-                vMap.put(ch, vMap.get(ch) + 1);
-            } else {
-                if (cMap.containsKey(ch)) {
-                    cMap.put(ch, cMap.get(ch) + 1);
-                } else {
-                    cMap.put(ch, 1);
-                }
+            freq[ch - 'a']++;
+        }
+        int vMax = 0, cMax = 0;
+        for (int i = 0; i < 26; i++) {
+            char ch = (char) (i + 'a');
+            if(map.containsKey(ch)){
+                vMax=Math.max(vMax,freq[i]);
+            }else{
+                cMax=Math.max(cMax,freq[i]);
             }
         }
-        // System.out.println("VMap");
-        // System.out.println(vMap);
-        // System.out.println("CMap");
-        // System.out.println(cMap);
-        int vMax = 0;
-        int cMax = 0;
-        if (!vMap.isEmpty()) {
-            Map.Entry<Character, Integer> vMaxEntry = Collections.max(vMap.entrySet(), Map.Entry.comparingByValue());
-            vMax = vMaxEntry.getValue();
-        }
-        if (!cMap.isEmpty()) {
-            Map.Entry<Character, Integer> cMaxEntry = Collections.max(cMap.entrySet(), Map.Entry.comparingByValue());
-            cMax = cMaxEntry.getValue();
-        }
 
-        return vMax + cMax;
-
+        return vMax+cMax;
     }
 }
