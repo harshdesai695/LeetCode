@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/harshdesai695/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/harshdesai695/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3799-unique-3-digit-even-numbers](https://github.com/harshdesai695/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/harshdesai695/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/harshdesai695/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Dynamic Programming
 |  |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshdesai695/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshdesai695/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/harshdesai695/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/harshdesai695/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/harshdesai695/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Simulation
 |  |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-calculate-score-after-performing-instructions](https://github.com/harshdesai695/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/harshdesai695/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harshdesai695/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/harshdesai695/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
 | ------- |
