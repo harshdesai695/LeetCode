@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/harshdesai695/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/harshdesai695/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/harshdesai695/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/harshdesai695/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshdesai695/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harshdesai695/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshdesai695/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshdesai695/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshdesai695/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/harshdesai695/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/harshdesai695/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1731-even-odd-tree](https://github.com/harshdesai695/LeetCode/tree/master/1731-even-odd-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/harshdesai695/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/harshdesai695/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/harshdesai695/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/harshdesai695/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/harshdesai695/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2121-find-if-path-exists-in-graph](https://github.com/harshdesai695/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshdesai695/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshdesai695/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/harshdesai695/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/harshdesai695/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1731-even-odd-tree](https://github.com/harshdesai695/LeetCode/tree/master/1731-even-odd-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/harshdesai695/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## String
@@ -805,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshdesai695/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/harshdesai695/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/harshdesai695/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/harshdesai695/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Combinatorics
 |  |
 | ------- |
