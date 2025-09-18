@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshdesai695/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/harshdesai695/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshdesai695/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3678-design-task-manager](https://github.com/harshdesai695/LeetCode/tree/master/3678-design-task-manager) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/harshdesai695/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/harshdesai695/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/harshdesai695/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/harshdesai695/LeetCode/tree/master/0355-design-twitter) |
 | [0677-map-sum-pairs](https://github.com/harshdesai695/LeetCode/tree/master/0677-map-sum-pairs) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/harshdesai695/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3678-design-task-manager](https://github.com/harshdesai695/LeetCode/tree/master/3678-design-task-manager) |
 ## Backtracking
 |  |
 | ------- |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harshdesai695/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/harshdesai695/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshdesai695/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3678-design-task-manager](https://github.com/harshdesai695/LeetCode/tree/master/3678-design-task-manager) |
 ## Graph
 |  |
 | ------- |
@@ -896,5 +899,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [3678-design-task-manager](https://github.com/harshdesai695/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/harshdesai695/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
