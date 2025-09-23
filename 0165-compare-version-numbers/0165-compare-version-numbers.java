@@ -19,13 +19,6 @@ class Solution {
             if (num1 > num2)
                 return 1;
         }
-        // for (int i = 0; i < maxLength; i++) {
-        //     if (Integer.parseInt(v1[i]) < Integer.parseInt(v2[i])) {
-        //         version = -1;
-        //     } else if (Integer.parseInt(v1[i]) > Integer.parseInt(v2[i])) {
-        //         version = 1;
-        //     }
-        // }
         return 0;
     }
 }
