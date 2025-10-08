@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/harshdesai695/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/harshdesai695/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2386-min-max-game](https://github.com/harshdesai695/LeetCode/tree/master/2386-min-max-game) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/harshdesai695/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/harshdesai695/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/harshdesai695/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshdesai695/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/harshdesai695/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/harshdesai695/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/harshdesai695/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/harshdesai695/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/harshdesai695/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/harshdesai695/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Sorting
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/harshdesai695/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/harshdesai695/LeetCode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshdesai695/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/harshdesai695/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/harshdesai695/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2887-sort-vowels-in-a-string](https://github.com/harshdesai695/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/harshdesai695/LeetCode/tree/master/3321-type-of-triangle) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshdesai695/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshdesai695/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/harshdesai695/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/harshdesai695/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/harshdesai695/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3790-fruits-into-baskets-ii](https://github.com/harshdesai695/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
