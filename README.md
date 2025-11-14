@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshdesai695/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshdesai695/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harshdesai695/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshdesai695/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/harshdesai695/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/harshdesai695/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/harshdesai695/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/harshdesai695/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harshdesai695/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshdesai695/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshdesai695/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/harshdesai695/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshdesai695/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1813-maximum-erasure-value](https://github.com/harshdesai695/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/harshdesai695/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshdesai695/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harshdesai695/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshdesai695/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshdesai695/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshdesai695/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/harshdesai695/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -953,4 +956,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3678-design-task-manager](https://github.com/harshdesai695/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/harshdesai695/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshdesai695/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
