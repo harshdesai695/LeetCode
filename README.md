@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/harshdesai695/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/harshdesai695/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshdesai695/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2625-increment-submatrices-by-one](https://github.com/harshdesai695/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2714-left-and-right-sum-differences](https://github.com/harshdesai695/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/harshdesai695/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3194-find-words-containing-character](https://github.com/harshdesai695/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/harshdesai695/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1041-available-captures-for-rook](https://github.com/harshdesai695/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/harshdesai695/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2625-increment-submatrices-by-one](https://github.com/harshdesai695/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3797-design-spreadsheet](https://github.com/harshdesai695/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/harshdesai695/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/harshdesai695/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/harshdesai695/LeetCode/tree/master/2571-find-the-pivot-integer) |
+| [2625-increment-submatrices-by-one](https://github.com/harshdesai695/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2714-left-and-right-sum-differences](https://github.com/harshdesai695/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3618-find-the-original-typed-string-ii](https://github.com/harshdesai695/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/harshdesai695/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
