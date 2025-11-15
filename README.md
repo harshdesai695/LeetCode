@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harshdesai695/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshdesai695/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/harshdesai695/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1552-build-an-array-with-stack-operations](https://github.com/harshdesai695/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/harshdesai695/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/harshdesai695/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshdesai695/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/harshdesai695/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1041-available-captures-for-rook](https://github.com/harshdesai695/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1310-watering-plants](https://github.com/harshdesai695/LeetCode/tree/master/1310-watering-plants) |
+| [1552-build-an-array-with-stack-operations](https://github.com/harshdesai695/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2058-concatenation-of-array](https://github.com/harshdesai695/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshdesai695/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/harshdesai695/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/harshdesai695/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harshdesai695/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/harshdesai695/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1552-build-an-array-with-stack-operations](https://github.com/harshdesai695/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/harshdesai695/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/harshdesai695/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/harshdesai695/LeetCode/tree/master/3447-clear-digits) |
