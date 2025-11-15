@@ -1,42 +1,35 @@
+import java.util.Stack;
+
 class Solution {
     public int evalRPN(String[] tokens) {
-        Stack<Integer> st = new Stack<>();
-
+        Stack<String> st = new Stack<>();
         for (String token : tokens) {
-            if (isNumber(token)) {
-                st.push(Integer.parseInt(token));
+            if (token.equals("+") || token.equals("-") || token.equals("*") || token.equals("/")) {
+                String n2 = st.pop();
+                String n1 = st.pop();
+                st.push(evalution(n1, n2, token));
             } else {
-                int b = st.pop(); 
-                int a = st.pop(); 
-                int result = eval(a, b, token.charAt(0));
-                st.push(result);
+                st.push(token);
             }
         }
-
-        return st.pop();
+        return Integer.parseInt(st.peek());
     }
 
-    private boolean isNumber(String token) {
-        try {
-            Integer.parseInt(token);
-            return true;
-        } catch (NumberFormatException e) {
-            return false;
-        }
-    }
+    public String evalution(String n1, String n2, String operation) {
+        int num1 = Integer.parseInt(n1);
+        int num2 = Integer.parseInt(n2);
+        int ans = 0;
 
-    private int eval(int a, int b, char op) {
-        switch (op) {
-            case '+':
-                return a + b;
-            case '-':
-                return a - b;
-            case '*':
-                return a * b;
-            case '/':
-                return a / b;
-            default:
-                throw new IllegalArgumentException("Invalid operator: " + op);
+        if (operation.equals("+")) {
+            ans = num1 + num2;
+        } else if (operation.equals("-")) {
+            ans = num1 - num2;
+        } else if (operation.equals("/")) {
+            ans = num1 / num2;   
+        } else if (operation.equals("*")) {
+            ans = num1 * num2;
         }
+
+        return Integer.toString(ans);
     }
 }
