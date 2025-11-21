@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/harshdesai695/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/harshdesai695/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/harshdesai695/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/harshdesai695/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2571-find-the-pivot-integer](https://github.com/harshdesai695/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2998-count-symmetric-integers](https://github.com/harshdesai695/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/harshdesai695/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -815,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/harshdesai695/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/harshdesai695/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/harshdesai695/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/harshdesai695/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2571-find-the-pivot-integer](https://github.com/harshdesai695/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2625-increment-submatrices-by-one](https://github.com/harshdesai695/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2714-left-and-right-sum-differences](https://github.com/harshdesai695/LeetCode/tree/master/2714-left-and-right-sum-differences) |
