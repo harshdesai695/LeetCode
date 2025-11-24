@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/harshdesai695/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2386-min-max-game](https://github.com/harshdesai695/LeetCode/tree/master/2386-min-max-game) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/harshdesai695/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/harshdesai695/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/harshdesai695/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/harshdesai695/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshdesai695/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/harshdesai695/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/harshdesai695/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/harshdesai695/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/harshdesai695/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2485-find-the-pivot-integer](https://github.com/harshdesai695/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2571-find-the-pivot-integer](https://github.com/harshdesai695/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2998-count-symmetric-integers](https://github.com/harshdesai695/LeetCode/tree/master/2998-count-symmetric-integers) |
