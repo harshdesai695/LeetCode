@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/harshdesai695/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshdesai695/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/harshdesai695/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0636-exclusive-time-of-functions](https://github.com/harshdesai695/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/harshdesai695/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/harshdesai695/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/harshdesai695/LeetCode/tree/master/0682-baseball-game) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/harshdesai695/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/harshdesai695/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshdesai695/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0636-exclusive-time-of-functions](https://github.com/harshdesai695/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/harshdesai695/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/harshdesai695/LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/harshdesai695/LeetCode/tree/master/0874-backspace-string-compare) |
