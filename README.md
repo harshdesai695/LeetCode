@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/harshdesai695/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/harshdesai695/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/harshdesai695/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshdesai695/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2551-apply-operations-to-an-array](https://github.com/harshdesai695/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshdesai695/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2625-increment-submatrices-by-one](https://github.com/harshdesai695/LeetCode/tree/master/2625-increment-submatrices-by-one) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/harshdesai695/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/harshdesai695/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshdesai695/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshdesai695/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/harshdesai695/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshdesai695/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/harshdesai695/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshdesai695/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/harshdesai695/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/harshdesai695/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshdesai695/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/harshdesai695/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3790-fruits-into-baskets-ii](https://github.com/harshdesai695/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
