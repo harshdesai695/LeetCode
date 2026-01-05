@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/harshdesai695/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1917-maximum-average-pass-ratio](https://github.com/harshdesai695/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/harshdesai695/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1975-maximum-matrix-sum](https://github.com/harshdesai695/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/harshdesai695/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2058-concatenation-of-array](https://github.com/harshdesai695/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/harshdesai695/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/harshdesai695/LeetCode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/harshdesai695/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1041-available-captures-for-rook](https://github.com/harshdesai695/LeetCode/tree/master/1041-available-captures-for-rook) |
+| [1975-maximum-matrix-sum](https://github.com/harshdesai695/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/harshdesai695/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/harshdesai695/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/harshdesai695/LeetCode/tree/master/2906-construct-product-matrix) |
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harshdesai695/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshdesai695/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1917-maximum-average-pass-ratio](https://github.com/harshdesai695/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/harshdesai695/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/harshdesai695/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshdesai695/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/harshdesai695/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
