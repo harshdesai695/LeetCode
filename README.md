@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/harshdesai695/LeetCode/tree/master/3321-type-of-triangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/harshdesai695/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/harshdesai695/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/harshdesai695/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/harshdesai695/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/harshdesai695/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3583-count-special-triplets](https://github.com/harshdesai695/LeetCode/tree/master/3583-count-special-triplets) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshdesai695/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/harshdesai695/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/harshdesai695/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/harshdesai695/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3583-count-special-triplets](https://github.com/harshdesai695/LeetCode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/harshdesai695/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/harshdesai695/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/harshdesai695/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/harshdesai695/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/harshdesai695/LeetCode/tree/master/3447-clear-digits) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/harshdesai695/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshdesai695/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/harshdesai695/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harshdesai695/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -857,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshdesai695/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/harshdesai695/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/harshdesai695/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/harshdesai695/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Stack
 |  |
 | ------- |
@@ -1037,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harshdesai695/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/harshdesai695/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshdesai695/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/harshdesai695/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/harshdesai695/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/harshdesai695/LeetCode/tree/master/3678-design-task-manager) |
 ## Graph
@@ -1066,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/harshdesai695/LeetCode/tree/master/0456-132-pattern) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/harshdesai695/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3678-design-task-manager](https://github.com/harshdesai695/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/harshdesai695/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting Sort
@@ -1082,4 +1088,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/harshdesai695/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/harshdesai695/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/harshdesai695/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
