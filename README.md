@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/harshdesai695/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/harshdesai695/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1975-maximum-matrix-sum](https://github.com/harshdesai695/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/harshdesai695/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/harshdesai695/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2058-concatenation-of-array](https://github.com/harshdesai695/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/harshdesai695/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harshdesai695/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1552-magnetic-force-between-two-balls](https://github.com/harshdesai695/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshdesai695/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/harshdesai695/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshdesai695/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/harshdesai695/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/harshdesai695/LeetCode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
@@ -940,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harshdesai695/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harshdesai695/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1813-maximum-erasure-value](https://github.com/harshdesai695/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/harshdesai695/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/harshdesai695/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshdesai695/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/harshdesai695/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
