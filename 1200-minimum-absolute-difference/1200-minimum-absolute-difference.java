@@ -4,13 +4,18 @@ class Solution {
         int minDiff = Integer.MAX_VALUE;
         List<List<Integer>> ans = new ArrayList<>();
         for (int i = 0; i < arr.length - 1; i++) {
-            int absDiff = Math.abs(arr[i] - arr[i + 1]);
+            // int absDiff = Math.abs(arr[i] - arr[i + 1]);
+            int absDiff = arr[i + 1]-arr[i];
             if (absDiff < minDiff) {
                 minDiff = absDiff;
                 ans.clear();
-                ans.add(new ArrayList<>(List.of(arr[i], arr[i + 1])));
-            } else if (absDiff == minDiff) {
-                ans.add(new ArrayList<>(List.of(arr[i], arr[i + 1])));
+            } 
+            
+            if (absDiff == minDiff) {
+                List<Integer> pair = new ArrayList<>(2);
+                pair.add(arr[i]);
+                pair.add(arr[i + 1]);
+                ans.add(pair);
             }
         }
         return ans;
