@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/harshdesai695/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/harshdesai695/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/harshdesai695/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0401-binary-watch](https://github.com/harshdesai695/LeetCode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/harshdesai695/LeetCode/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/harshdesai695/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/harshdesai695/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -980,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/harshdesai695/LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/harshdesai695/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/harshdesai695/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/harshdesai695/LeetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/harshdesai695/LeetCode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/harshdesai695/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/harshdesai695/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
