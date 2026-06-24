@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/harshdesai695/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshdesai695/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/harshdesai695/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshdesai695/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshdesai695/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshdesai695/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/harshdesai695/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshdesai695/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harshdesai695/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshdesai695/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/harshdesai695/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -1050,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/harshdesai695/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/harshdesai695/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/harshdesai695/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshdesai695/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/harshdesai695/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Trie
 |  |
