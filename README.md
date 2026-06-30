@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshdesai695/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/harshdesai695/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/harshdesai695/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshdesai695/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/harshdesai695/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harshdesai695/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshdesai695/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/harshdesai695/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/harshdesai695/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/harshdesai695/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshdesai695/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/harshdesai695/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harshdesai695/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/harshdesai695/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -972,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/harshdesai695/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/harshdesai695/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/harshdesai695/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshdesai695/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshdesai695/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harshdesai695/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harshdesai695/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
