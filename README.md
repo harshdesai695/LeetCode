@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/harshdesai695/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1041-available-captures-for-rook](https://github.com/harshdesai695/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1046-max-consecutive-ones-iii](https://github.com/harshdesai695/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/harshdesai695/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1168-duplicate-zeros](https://github.com/harshdesai695/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/harshdesai695/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/harshdesai695/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/harshdesai695/LeetCode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/harshdesai695/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1041-available-captures-for-rook](https://github.com/harshdesai695/LeetCode/tree/master/1041-available-captures-for-rook) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/harshdesai695/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/harshdesai695/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshdesai695/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1975-maximum-matrix-sum](https://github.com/harshdesai695/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshdesai695/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/harshdesai695/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0993-cousins-in-binary-tree](https://github.com/harshdesai695/LeetCode/tree/master/0993-cousins-in-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/harshdesai695/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshdesai695/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/harshdesai695/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/harshdesai695/LeetCode/tree/master/1731-even-odd-tree) |
