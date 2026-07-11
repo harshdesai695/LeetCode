@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/harshdesai695/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/harshdesai695/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/harshdesai695/LeetCode/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/harshdesai695/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/harshdesai695/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harshdesai695/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshdesai695/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/harshdesai695/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/harshdesai695/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/harshdesai695/LeetCode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/harshdesai695/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/harshdesai695/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/harshdesai695/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshdesai695/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/harshdesai695/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/harshdesai695/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/harshdesai695/LeetCode/tree/master/0390-elimination-game) |
+| [0396-rotate-function](https://github.com/harshdesai695/LeetCode/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/harshdesai695/LeetCode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/harshdesai695/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/harshdesai695/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
