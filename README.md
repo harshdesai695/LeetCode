@@ -1157,4 +1157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/harshdesai695/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/harshdesai695/LeetCode/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/harshdesai695/LeetCode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
