@@ -1,22 +1,21 @@
 class Solution {
     public int change(int amount, int[] coins) {
-        int n = coins.length;
+        int N = coins.length;
+        int[][] t = new int[N + 1][amount + 1];
 
-        int[][] mt = new int[n + 1][amount + 1];
-        for (int i = 0; i <= n; i++) {
-            mt[i][0] = 1;
+        for (int i = 0; i < N + 1; i++) {
+            t[i][0] = 1;
         }
 
-        for (int i = 1; i <= n; i++) {
-            for (int j = 0; j <= amount; j++) {
+        for (int i = 1; i <= N; i++) {
+            for (int j = 1; j <= amount; j++) {
                 if (coins[i - 1] <= j) {
-                    mt[i][j] = mt[i - 1][j] + mt[i][j - coins[i - 1]];
+                    t[i][j] = t[i][j - coins[i - 1]] + t[i - 1][j];
                 } else {
-                    mt[i][j] = mt[i - 1][j];
+                    t[i][j] = t[i - 1][j];
                 }
             }
         }
-        return mt[n][amount];
-
+        return t[N][amount];
     }
 }
