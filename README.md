@@ -1210,4 +1210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshdesai695/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/harshdesai695/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
