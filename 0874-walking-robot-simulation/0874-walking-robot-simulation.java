@@ -1,28 +1,33 @@
 class Solution {
     public int robotSim(int[] commands, int[][] obstacles) {
-        Set<String> obs = new HashSet<>();
+        Set<String> set = new HashSet<>();
         for (int[] i : obstacles) {
-            obs.add(i[0] + "," + i[1]);
+            set.add(i[0] + "," + i[1]);
         }
 
-        int x = 0, y = 0;
-        int angle = 0;
+        //Max distance we will return
         int maxDistance = 0;
-        int[][] directions = {
-                { 0, 1 }, { 1, 0 }, { 0, -1 }, { -1, 0 }
-        };
 
-        for (int cmd : commands) {
-            if (cmd == -2) {
-                angle = (angle + 3) % 4;
-            } else if (cmd == -1) {
+        //Start Position
+        int x = 0, y = 0;
+
+        //Direction
+        int[][] dir = new int[][] { { 0, 1 }, { 1, 0 }, { 0, -1 }, { -1, 0 } };
+
+        //angle
+        int angle=0;
+
+        for (int i : commands) {
+            if (i == -1) {
                 angle = (angle + 1) % 4;
+            } else if (i == -2) {
+                angle = (angle + 3) % 4;
             } else {
-                while (cmd-- > 0) {
-                    int newx = x + directions[angle][0];
-                    int newy = y + directions[angle][1];
+                while(i-->0){
+                    int newx = x + dir[angle][0];
+                    int newy = y + dir[angle][1];
 
-                    if (obs.contains(newx + "," + newy)) {
+                    if (set.contains(newx + "," + newy)) {
                         break;
                     }
                     x = newx;
@@ -32,5 +37,6 @@ class Solution {
             }
         }
         return maxDistance;
+
     }
 }
