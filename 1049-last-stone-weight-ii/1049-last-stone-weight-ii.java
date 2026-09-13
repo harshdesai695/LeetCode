@@ -1,32 +1,57 @@
 class Solution {
-    public int lastStoneWeightII(int[] stones) {
-        int sum = 0;
 
+    // X,Y
+    // X==Y destroy both
+    // X!=Y X destroyed and y = y - X   
+    // public int lastStoneWeightII(int[] stones) {
+    //     int n = stones.length;
+    //     int sum = 0;
+    //     for (int i : stones) {
+    //         sum = sum + i;
+    //     }
+    //     return recursiveFunction(stones,n,sum,0);
+    // }
+
+    // public int recursiveFunction(int[] stones, int n, int sum, int acc) {
+    //     if (n == 0) {
+    //         return Math.abs(sum - acc);
+    //     }
+    //     int take = recursiveFunction(stones, n - 1, sum - stones[n - 1], acc + stones[n - 1]);
+    //     int notTake = recursiveFunction(stones, n - 1, sum, acc);
+    //     return Math.min(take, notTake);
+
+    // }
+
+    int[][] mt;
+
+    public int lastStoneWeightII(int[] stones) {
+        int n = stones.length;
+        int sum = 0;
         for (int i : stones) {
             sum = sum + i;
         }
-
-        boolean[][] dp = new boolean[stones.length + 1][sum + 1];
-        for (int i = 0; i <= stones.length; i++) {
-            dp[i][0] = true;
-        }
-
-        for (int i = 1; i <= stones.length; i++) {
-            for (int j = 1; j <= sum / 2; j++) {
-                if (stones[i - 1] <= j) {
-                    dp[i][j] = dp[i - 1][j - stones[i - 1]] || dp[i - 1][j];
-                } else {
-                    dp[i][j] = dp[i - 1][j];
-                }
+        mt = new int[n + 1][sum + 1];
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < sum; j++) {
+                mt[i][j] = -1;
             }
         }
-
-        for (int j = sum / 2; j >= 0; j--) {
-            if (dp[stones.length][j]) {
-                return sum - 2 * j;
-            }
-        }
-
-        return 0;
+        return recursiveFunction(stones, n, sum, 0);
     }
+
+    public int recursiveFunction(int[] stones, int n, int sum, int acc) {
+        if (n == 0) {
+            return Math.abs(sum - acc);
+        }
+
+        if (mt[n - 1][sum - 1] != -1) {
+            return mt[n - 1][sum - 1];
+        }
+
+        int take = recursiveFunction(stones, n - 1, sum - stones[n - 1], acc + stones[n - 1]);
+        int notTake = recursiveFunction(stones, n - 1, sum, acc);
+        return mt[n - 1][sum - 1] = Math.min(take, notTake);
+
+    }
+
 }
