@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/harshdesai695/LeetCode/tree/master/1013-fibonacci-number) |
 | [1049-last-stone-weight-ii](https://github.com/harshdesai695/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1086-divisor-game](https://github.com/harshdesai695/LeetCode/tree/master/1086-divisor-game) |
+| [1143-longest-common-subsequence](https://github.com/harshdesai695/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/harshdesai695/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/harshdesai695/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/harshdesai695/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -856,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/harshdesai695/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1006-vowel-spellchecker](https://github.com/harshdesai695/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harshdesai695/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/harshdesai695/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/harshdesai695/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1170-shortest-common-supersequence](https://github.com/harshdesai695/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/harshdesai695/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -1235,4 +1237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harshdesai695/LeetCode/tree/master/0141-linked-list-cycle) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/harshdesai695/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
