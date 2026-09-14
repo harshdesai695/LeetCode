@@ -1207,11 +1207,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/harshdesai695/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/harshdesai695/LeetCode/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/harshdesai695/LeetCode/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/harshdesai695/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/harshdesai695/LeetCode/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
