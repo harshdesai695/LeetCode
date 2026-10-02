@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/harshdesai695/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2386-min-max-game](https://github.com/harshdesai695/LeetCode/tree/master/2386-min-max-game) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/harshdesai695/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/harshdesai695/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/harshdesai695/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/harshdesai695/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshdesai695/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/harshdesai695/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harshdesai695/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshdesai695/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/harshdesai695/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/harshdesai695/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/harshdesai695/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshdesai695/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/harshdesai695/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshdesai695/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/harshdesai695/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/harshdesai695/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/harshdesai695/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/harshdesai695/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/harshdesai695/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
