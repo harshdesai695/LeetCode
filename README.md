@@ -1305,4 +1305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/harshdesai695/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshdesai695/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshdesai695/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/harshdesai695/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
