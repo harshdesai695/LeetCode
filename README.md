@@ -748,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/harshdesai695/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshdesai695/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshdesai695/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/harshdesai695/LeetCode/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/harshdesai695/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/harshdesai695/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshdesai695/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/harshdesai695/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshdesai695/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshdesai695/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/harshdesai695/LeetCode/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/harshdesai695/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/harshdesai695/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshdesai695/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1248,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/harshdesai695/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/harshdesai695/LeetCode/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/harshdesai695/LeetCode/tree/master/0841-keys-and-rooms) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/harshdesai695/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -1284,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/harshdesai695/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/harshdesai695/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/harshdesai695/LeetCode/tree/master/0684-redundant-connection) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
