@@ -891,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/harshdesai695/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/harshdesai695/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/harshdesai695/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0856-score-of-parentheses](https://github.com/harshdesai695/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/harshdesai695/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1006-vowel-spellchecker](https://github.com/harshdesai695/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harshdesai695/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -1012,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/harshdesai695/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/harshdesai695/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/harshdesai695/LeetCode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/harshdesai695/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/harshdesai695/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harshdesai695/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/harshdesai695/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -1311,6 +1313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/harshdesai695/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/harshdesai695/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/harshdesai695/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/harshdesai695/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshdesai695/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshdesai695/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Brute-Force Search
