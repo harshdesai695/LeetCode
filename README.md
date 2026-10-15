@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshdesai695/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2625-increment-submatrices-by-one](https://github.com/harshdesai695/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2714-left-and-right-sum-differences](https://github.com/harshdesai695/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshdesai695/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/harshdesai695/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/harshdesai695/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/harshdesai695/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -1166,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/harshdesai695/LeetCode/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/harshdesai695/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [2215-finding-3-digit-even-numbers](https://github.com/harshdesai695/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshdesai695/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/harshdesai695/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/harshdesai695/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/harshdesai695/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
